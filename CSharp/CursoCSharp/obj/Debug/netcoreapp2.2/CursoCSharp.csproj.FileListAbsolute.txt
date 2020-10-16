@@ -1,0 +1,14 @@
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.deps.json
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.runtimeconfig.json
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.dll
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.pdb
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfo.cs
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.dll
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.pdb
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\Encapsulamento.dll
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\Encapsulamento.pdb
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csproj.CopyComplete

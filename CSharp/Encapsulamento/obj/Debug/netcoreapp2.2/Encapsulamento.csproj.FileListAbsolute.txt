@@ -1,0 +1,9 @@
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.2\Encapsulamento.deps.json
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.2\Encapsulamento.dll
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.2\Encapsulamento.pdb
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.2\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.2\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.2\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.2\Encapsulamento.AssemblyInfo.cs
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.2\Encapsulamento.dll
+C:\Users\Cognix\Documents\developer\C# do basico ao Avançado\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.2\Encapsulamento.pdb

@@ -1,0 +1,20 @@
+Solução     ---> Projeto  ---- > pastas ----> arquivos
+(Aplicação)      (Assembly)
+					|
+					|
+				   / \
+				  /   \
+				 /     \
+			.exe       .DLL
+
+
+NA VISAO DO C#
+
+Solução     ---> Projeto  ---- > namespaces ---> Class
+(Aplicação)      (Assembly)
+					|
+					|
+				   / \
+				  /   \
+				 /     \
+			.exe       .DLL
